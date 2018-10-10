@@ -1,0 +1,27 @@
+h1 {
+  text-align:left;
+}
+
+.cupcake {
+  width: 400px;
+  height: 220px;
+}
+
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+.best {
+  font-size: 56px;
+  font-weight: lighter;
+}
+
+.tiny {
+  font-size: 12px;
+  font-family: sans-serif;
+}
+
+#cupcake4 {
+  margin-left: 16px;
+}
